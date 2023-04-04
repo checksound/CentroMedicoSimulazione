@@ -34,6 +34,7 @@ Quando il medico inizia a visitare il paziente e quando finisce il paziente.
 Quando il paziente (con 'nome paziente') entra in sala d'aspetto.
 
 Esempio di log:
+```
 Medico: Medico1, INIZIA LA PAUSA
 Medico: Medico2, INIZIA LA PAUSA
 Paziente Paziente7 entrato in sala aspetto
@@ -80,7 +81,7 @@ Paziente Paziente7 entrato in sala aspetto
 Medico: Medico2 inizia visita paziente: Paziente7
 Medico: Medico1 FINITA visita paziente: Paziente5
 Medico: Medico2 FINITA visita paziente: Paziente7
-
+```
 
 
 
